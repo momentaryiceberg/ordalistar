@@ -2,6 +2,7 @@
 
 ## Folderinn orðalistar
 Eru .txt fælar með öllum íslenskum orðum hvers stafs "a.txt, b.txt" og svo framvegis
+ATH ! Það vantar "s.txt" !
 
 ## ordtok.txt
 Eru 819 íslensk orðatiltæki
