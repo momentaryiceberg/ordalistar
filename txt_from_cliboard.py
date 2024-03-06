@@ -31,6 +31,4 @@ button = tk.Button(frame_nedri, text="Velja path", command=lambda: path.set(file
 
 frame_nedri.pack()
 
-
-
 root.mainloop()
