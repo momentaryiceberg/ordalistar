@@ -15,5 +15,6 @@ Er bara function sem hreinsar tómar línur úr textafæl
 
 ## txt_from_clipboard.py
 Er nettur snilldar GUI:
-        - Entry = verður nafn fæls, þegar ýtir á:
-        - Takki = býr til txt fæl með innihaldi clipboards, og hreinsar svo clipboard og entry-ið
+#### Entry = verður nafn fæls, þegar ýtir á:
+#### Takki = býr til txt fæl með innihaldi clipboards, og hreinsar svo clipboard og entry-ið
+#### Takki = velur nýtt path, sem fællinn seivast í
